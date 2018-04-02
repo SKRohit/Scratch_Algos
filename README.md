@@ -2,6 +2,7 @@
 ### Minimalistic implementations of different ML algorithms from scratch.
 
 **Few of the implementations are:**
+
 **1. SVM Classifier with Gradient Descent for optimisation**
 **2. Self Organising Maps**
 **3. Simple Logistic Regression with Newton's Method for optimisation**
